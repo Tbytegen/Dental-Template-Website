@@ -7,6 +7,9 @@ import { Toaster } from '@/components/ui/toaster';
 export const metadata: Metadata = {
   title: 'Nairobi Dental | Premium Dental Care',
   description: 'Expert dental services in Nairobi, providing world-class care with a personal touch.',
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({

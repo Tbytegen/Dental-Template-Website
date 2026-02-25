@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Circular background matching primary color -->
+  <circle cx="16" cy="16" r="16" fill="#0066cc"/>
+  
+  <!-- Sparkles icon -->
+  <g fill="#ffffff">
+    <!-- Center star -->
+    <path d="M16 4 L19 12 L27 12 L21 17 L24 25 L16 20 L8 25 L11 17 L5 12 L13 12 Z"/>
+    
+    <!-- Small sparkles -->
+    <circle cx="8" cy="8" r="1.5"/>
+    <circle cx="24" cy="8" r="1.5"/>
+    <circle cx="7" cy="24" r="1.5"/>
+    <circle cx="25" cy="24" r="1.5"/>
+  </g>
+</svg>
