@@ -1,0 +1,59 @@
+DENTAL WEBSITE - IMAGE GUIDE
+==============================
+
+This folder should contain dental-related images for your website.
+The website expects the following image files (IMPORTANT: Use exact names):
+
+1. HERO SECTION (Main landing page image):
+   - hero-bg.jpg (1200x800 pixels) - Professional dental office/clinic
+
+2. TEAM MEMBER PHOTOS (3 dentists):
+   - dentist-1.jpg (600x800 pixels) - Male dentist
+   - dentist-2.jpg (600x800 pixels) - Female dentist  
+   - dentist-3.jpg (600x800 pixels) - Male dentist (surgeon)
+
+3. CLINIC TOUR IMAGES (6 interior shots):
+   - clinic-tour-1.jpg (800x600 pixels) - Luxury Treatment Suite
+   - clinic-tour-2.jpg (800x600 pixels) - Patient Reception
+   - clinic-tour-3.jpg (800x600 pixels) - Imaging Lab
+   - clinic-tour-4.jpg (800x600 pixels) - Surgical Suite
+   - clinic-tour-5.jpg (800x600 pixels) - Sterilization Lab
+   - clinic-tour-6.jpg (800x600 pixels) - Recovery Lounge
+
+4. OTHER IMAGES:
+   - about-clinic.jpg (1200x800 pixels) - Modern treatment suite
+   - service-implants.jpg (800x600 pixels) - Dental procedure/implant
+
+TOTAL: 12 images
+
+WHERE TO GET FREE DENTAL IMAGES:
+================================
+1. Unsplash (unsplash.com)
+   - Search: "dental clinic", "dentist office", "dental treatment"
+   
+2. Pexels (pexels.com)
+   - Search: "dental", "dentistry", "dental care"
+   
+3. Pixabay (pixabay.com)
+   - Search: "dental office", "dentist", "surgery"
+
+RECOMMENDED FILE FORMAT:
+- JPG format (recommended for website)
+- PNG format (also acceptable)
+
+STEPS TO ADD YOUR IMAGES:
+1. Download images from the sources above
+2. Use an online tool (tinypng.com, compressor.io) to compress them
+3. Rename them exactly as shown above (case-sensitive)
+4. Save them in THIS FOLDER (public/images/)
+5. Your website will automatically use them!
+
+NOTES:
+- File names are case-sensitive (use lowercase)
+- Choose high-quality, professional images
+- Images should match the recommended sizes for best results
+- Once you add images here, the website will automatically display them
+
+QUESTIONS?
+The website has been configured to expect images here with these exact names.
+Just download, rename, and drop them into this folder - that's it!

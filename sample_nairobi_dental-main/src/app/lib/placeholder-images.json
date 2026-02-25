@@ -1,0 +1,77 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Main Hero Background Image",
+      "imageUrl": "/images/hero-bg.jpg",
+      "imageHint": "dental office"
+    },
+    {
+      "id": "dentist-1",
+      "description": "Dr. Kwame Mensah",
+      "imageUrl": "/images/dentist-1.jpg",
+      "imageHint": "male dentist"
+    },
+    {
+      "id": "dentist-2",
+      "description": "Dr. Amara Okoro",
+      "imageUrl": "/images/dentist-2.jpg",
+      "imageHint": "female dentist"
+    },
+    {
+      "id": "dentist-3",
+      "description": "Dr. Jabari Tunde",
+      "imageUrl": "/images/dentist-3.jpg",
+      "imageHint": "surgeon"
+    },
+    {
+      "id": "clinic-tour-1",
+      "description": "Luxury Treatment Suite",
+      "imageUrl": "/images/clinic-tour-1.jpg",
+      "imageHint": "dental room"
+    },
+    {
+      "id": "clinic-tour-2",
+      "description": "Patient Reception",
+      "imageUrl": "/images/clinic-tour-2.jpg",
+      "imageHint": "reception"
+    },
+    {
+      "id": "clinic-tour-3",
+      "description": "Imaging Lab",
+      "imageUrl": "/images/clinic-tour-3.jpg",
+      "imageHint": "dental lab"
+    },
+    {
+      "id": "clinic-tour-4",
+      "description": "Advanced Surgical Suite",
+      "imageUrl": "/images/clinic-tour-4.jpg",
+      "imageHint": "surgery room"
+    },
+    {
+      "id": "clinic-tour-5",
+      "description": "Sterilization Lab",
+      "imageUrl": "/images/clinic-tour-5.jpg",
+      "imageHint": "clean medical"
+    },
+    {
+      "id": "clinic-tour-6",
+      "description": "Recovery Lounge",
+      "imageUrl": "/images/clinic-tour-6.jpg",
+      "imageHint": "modern lounge"
+    },
+    {
+      "id": "about-clinic",
+      "description": "Our Modern Treatment Suite",
+      "imageUrl": "/images/about-clinic.jpg",
+      "imageHint": "empty dental clinic"
+    },
+    {
+      "id": "service-implants",
+      "description": "Dental Implant Procedure",
+      "imageUrl": "/images/service-implants.jpg",
+      "imageHint": "dental patient"
+    }
+  ]
+}
